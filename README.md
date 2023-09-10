@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Placeholder for description describing the Google Cybersecurity lab
+Fictional scenario involving a small company that is growing and needing solutions to address security concerns. The internal security audit helps to identify and mitigate risks, threats, and vulnerabilities in order to ensure business continuity.
 <br />
 
 
